@@ -1,3 +1,3 @@
-# spark-scala-play
+# spark-play
 ## Apache Spark Playground
-Experiment with Apache Spark ML library in Scala.
+Personal experiment with the Apache Spark framework.
