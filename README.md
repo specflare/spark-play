@@ -1,3 +1,3 @@
 # spark-play
 ## Apache Spark Playground
-Personal experiment with the Apache Spark framework.
+Personal experiments with the Apache Spark framework.
