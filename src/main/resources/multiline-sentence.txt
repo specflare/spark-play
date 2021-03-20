@@ -1,0 +1,11 @@
+Slope field is also called a direction field. The solutions of a first-order differential equation of a scalar
+function y(x) can be drawn in a 2-dimensional space with the x in horizontal and y in vertical direction.
+Possible solutions are functions y(x) drawn as solid curves. Sometimes it is too cumbersome solving the
+differential equation analytically. Then one can still draw the tangents of the function curves e.g.
+on a regular grid. The tangents are touching the functions at the grid points. However, the direction
+field is rather agnostic about chaotic aspects of the differential equation.
+
+Historically, philosophy encompassed all bodies of knowledge and a practitioner was known as a philosopher.
+From the time of Ancient Greek philosopher Aristotle to the 19th century, "natural philosophy" encompassed
+astronomy, medicine, and physics. For example, Newton's 1687 Mathematical Principles of Natural
+Philosophy later became classified as a book of physics.
